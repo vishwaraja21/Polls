@@ -26,6 +26,7 @@ Execute Django admin and create details for polls.
 ## OUTPUT
 
 
+## COURSERA GRADE
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
