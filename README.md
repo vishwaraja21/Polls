@@ -99,18 +99,14 @@ urlpatterns = [
 ```
 
 ## OUTPUT
+![WhatsApp Image 2024-10-17 at 22 03 27_e0f6f1e0](https://github.com/user-attachments/assets/0d31add4-fb06-4bee-9585-096c1b44efa0)
 
-![image](https://github.com/user-attachments/assets/2bf22d54-16d7-4b51-86e6-940ca973a56c)
 
-![Screenshot 2024-09-04 212641](https://github.com/user-attachments/assets/fb976055-2707-4962-a57f-2d8b2dc234a9)
 
-![Screenshot 2024-09-04 212655](https://github.com/user-attachments/assets/b9f8f705-7830-4240-b860-8ddfb31763b6)
-
-![Screenshot 2024-09-04 212717](https://github.com/user-attachments/assets/cca176f1-305b-4f43-bd33-501a56f9449e)
 
 ## COURSERA GRADE
+![WhatsApp Image 2024-10-17 at 22 03 26_1a4e430e](https://github.com/user-attachments/assets/d31ce8cc-8b7d-4309-a192-1ca1356c1c5d)
 
-![Screenshot 2024-09-25 082645](https://github.com/user-attachments/assets/730886e5-0b10-4ecc-abe4-054fb4d0c4a6)
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
