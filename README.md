@@ -105,7 +105,8 @@ urlpatterns = [
 
 
 ## COURSERA GRADE
-![WhatsApp Image 2024-10-17 at 22 03 26_1a4e430e](https://github.com/user-attachments/assets/d31ce8cc-8b7d-4309-a192-1ca1356c1c5d)
+![image](https://github.com/user-attachments/assets/ce3cdf23-6c24-414c-9258-0e4e4f0417f8)
+
 
 
 ## RESULT
